@@ -4,7 +4,7 @@ Name:		jquery-%{plugin}
 Version:	5.4.1
 Release:	1
 # The free version comes with a GPL-based license and carries a Flowplayer logo. Commercial use is allowed.
-License:	GPL
+License:	GPL v3 with additional term
 Group:		Applications/WWW
 Source0:	http://releases.flowplayer.org/%{version}/flowplayer-%{version}.zip
 # Source0-md5:	cfbdd4a16ff17babea781404b87f386c
