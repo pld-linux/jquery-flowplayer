@@ -1,13 +1,13 @@
 %define		plugin	flowplayer
 Summary:	Flowplayer - The video player for the Web
 Name:		jquery-%{plugin}
-Version:	5.4.4
+Version:	5.4.6
 Release:	1
 # The free version comes with a GPL-based license and carries a Flowplayer logo. Commercial use is allowed.
 License:	GPL v3 with additional term
 Group:		Applications/WWW
 Source0:	http://releases.flowplayer.org/%{version}/flowplayer-%{version}.zip
-# Source0-md5:	5ba7e137fe7c950eef93027c2ef53993
+# Source0-md5:	8efd17577355f70ec6e5b9ffb7e0a389
 URL:		http://flowplayer.org/
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	unzip
